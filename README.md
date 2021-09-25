@@ -1,1 +1,2 @@
-# mi-proyecto-web-
+#inicio del curso de programacion 
+primer respositorio
